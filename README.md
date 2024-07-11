@@ -14,13 +14,17 @@ Key Features
 
 Data Cleaning:
 Removal of duplicate records.
+
 Standardization of data formats.
+
 Handling of null values and missing data.
 
 Exploratory Data Analysis (EDA):
 Summary statistics to understand the data distribution.
+
 Visualizations to identify trends and patterns.
 
 Conclusion
+
 This project provides a robust framework for data cleaning and exploratory data analysis, showcasing essential steps to prepare data for further analysis or modeling. The cleaned data and resulting insights can serve as a foundation for more advanced data science projects.
 
