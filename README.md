@@ -13,7 +13,9 @@ Exploratory Analysis: Detailed examination of the cleaned data to identify key t
 
 Key Features
 
+
 Data Cleaning:
+
 Removal of duplicate records.
 
 Standardization of data formats.
@@ -21,6 +23,7 @@ Standardization of data formats.
 Handling of null values and missing data.
 
 Exploratory Data Analysis (EDA):
+
 Summary statistics to understand the data distribution.
 
 Visualizations to identify trends and patterns.
